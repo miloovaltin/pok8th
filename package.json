@@ -1,16 +1,16 @@
 {
-"name": "pok8th",
-"theme": "pok8th",
-"version": "5.7.4",
-"description": "pok8th สมัครเว็บไซต์พนันเว็บตรง สมาชิกเยอะ ให้เงินเครดิตฟรี",
-"keywords": [
-"pok8th",
-"pok8th เครดิตฟรี",
-"pok8th ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/pok8th",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "pok8th",
+  "theme": "pok8th",
+  "version": "5.8.0",
+  "description": "pok8th สมัครเว็บไซต์พนันเว็บตรง สมาชิกเยอะ ให้เงินเครดิตฟรี",
+  "keywords": [
+    "pok8th",
+    "pok8th เครดิตฟรี",
+    "pok8th ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/pok8th",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
